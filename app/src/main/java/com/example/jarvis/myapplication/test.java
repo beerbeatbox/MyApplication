@@ -8,4 +8,6 @@ public class test {
     int a=0;
     //add in b1
     //add in master
+
+    //merge from1 add master
 }
