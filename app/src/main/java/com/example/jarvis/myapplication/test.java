@@ -7,6 +7,7 @@ package com.example.jarvis.myapplication;
 public class test {
     int a=1;
     int b=1;
+    int c=0;
 
 
     //b1
