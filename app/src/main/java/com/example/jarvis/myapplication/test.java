@@ -6,5 +6,4 @@ package com.example.jarvis.myapplication;
 
 public class test {
     //b1
-    //master1
 }
