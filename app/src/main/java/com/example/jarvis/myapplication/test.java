@@ -6,6 +6,7 @@ package com.example.jarvis.myapplication;
 
 public class test {
     int a=0;
+    int b=0;
 
 
     //b1
