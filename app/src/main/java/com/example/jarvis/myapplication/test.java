@@ -5,8 +5,8 @@ package com.example.jarvis.myapplication;
  */
 
 public class test {
-    int a=0;
-    int b=0;
+    int a=1;
+    int b=1;
 
 
     //b1
